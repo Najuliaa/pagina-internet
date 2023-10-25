@@ -65,7 +65,7 @@ aula pensamento computacional
     <main>
         <section>
             <h2>Livros Recomendados</h2>
-            <p>Aqui você encontrará os melhores livros de fantasia nesse site.</p>
+            <p>Aqui você encontrará os melhores livros de fantasia, para se aventurar nas histórias.</p>
             <!-- Listar livros recomendados aqui -->
         </section>
         <section>
