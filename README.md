@@ -3,7 +3,7 @@ aula pensamento computacional
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Indicações de Livros</title>
+    <title>Indicações de livros de fantasia</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -65,12 +65,12 @@ aula pensamento computacional
     <main>
         <section>
             <h2>Livros Recomendados</h2>
-            <p>Aqui você encontrará nossa seleção de livros recomendados.</p>
+            <p>Aqui você encontrará os melhores livros de fantasia nesse site.</p>
             <!-- Listar livros recomendados aqui -->
         </section>
         <section>
             <h2>Sobre Nós</h2>
-            <p>Somos apaixonados por livros e queremos compartilhar nossas melhores recomendações com você.</p>
+            <p>Somos apaixonados por livros e queremos compartilhar nossas melhores recomendações, para você ter as melhores esperiencias.</p>
         </section>
     </main>
     <footer>
